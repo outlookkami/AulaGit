@@ -53,4 +53,5 @@ git stash                                                                       
 Git Fluence ---> IA de git, ajuda com qualquer dúvida sobre git
 
 git reset --soft                               --> volta o commit
+git log --oneline
 
