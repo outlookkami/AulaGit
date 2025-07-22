@@ -17,3 +17,9 @@
 - 
 ## Push
 - git push origin main |OU| master
+
+## Clone, Fetch e Pull
+-git clone (repositório)
+-git fetch 
+-git status 
+-git pull
